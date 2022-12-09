@@ -1,3 +1,6 @@
 [submodule "e-commerce-application-backend"]
 	path = e-commerce-application-backend
 	url = https://github.com/davidk55/e-commerce-application-backend
+[submodule "e-commerce-application-ui"]
+	path = e-commerce-application-ui
+	url = git@github.com:davidk55/e-commerce-application-ui.git
